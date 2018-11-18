@@ -1,2 +1,10 @@
 
 -INSTRUCCIONES
+
+1.Descarga la base de datos practica2.spl
+2.DIrijase a PHPMyAdmin
+3.Cree una una base de datos
+4.Ingrese a DATABASE en su bases de dato
+5.Luego dirijase importar
+6.selecciona la base de datos y le en aceptar
+7.FIN
